@@ -1,0 +1,109 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+body{
+	background-color: rgb(244, 244, 244);
+}
+header, footer{
+	background-color: #3B3A3A
+}
+.menu-1 li{
+	display: inline-block;
+	color: white;
+	padding: 3%;
+}
+.menu-1 a{
+	color: white;
+	text-decoration: none;
+}
+.menu-1 a:hover {
+	color: #DA54A9;
+}
+.log{
+	font-weight:bold;
+	padding-bottom: 3%;
+}
+/*termino header*/
+
+/*section wordpress*/
+ .bg-header {
+ 	width: 100%;
+ }
+.read-more {
+	margin: 2%;
+	padding: 3%;
+	background-color: gray;
+	color: white;
+	display: inline-block;
+}
+.color-white {
+	background-color: white;
+}
+.border {
+	border-bottom: 1px solid #D8D8D8;
+
+}
+
+/*final section*/
+
+/*section lastest*/
+.lastest{
+	display: inline-block;
+	padding: 2%;
+	text-decoration: none;
+	color: #888;
+}
+
+.lastest:hover{
+	color: black;
+}
+.load{
+	display: inline-block;
+	padding: 1% 2%;
+	color: black;
+	background-color: gray;
+	border-radius: 40%;
+	margin-bottom: 2%;
+}
+
+/*terminacion*/
+
+/*inicio follow*/
+.twitter-grand{
+	font-size: 130px;
+
+}
+.my{
+	font-size: 20px;
+}
+.follow{
+	background-color: gray;
+	display: inline-block;
+	padding: 1% 2%;
+	border-radius: 33%;
+	border: none;
+
+}
+.my a{
+	color: #DA54A9;
+	text-decoration: none;
+}
+
+/*final*/
+
+/*footer*/
+
+.iconos {
+	border-radius: 50% dashed;
+	font-size: 35px;
+}
+.col-3 a {
+	text-decoration: none;
+	color: hsla(0, 0%, 53%, 0.25);
+}
+}
+.color-gray1{
+	color: hsla(0, 0%, 53%, 0.25);
+}
+
